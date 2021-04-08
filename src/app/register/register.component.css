@@ -1,0 +1,24 @@
+.errorCard {
+    text-align: left;
+    font-size: small;
+   }
+
+.submitBtn{
+    margin-top: 15px;
+    width: 250px;
+    height: 70px;
+}
+
+mat-card {
+    max-width: 400px;
+    margin: 2em auto;
+    text-align: center;
+   }
+   mat-form-field {
+    display: block;
+    padding-bottom: 25px;
+   }
+   .success{
+    text-align: center;
+    padding-top:10px;
+   }
